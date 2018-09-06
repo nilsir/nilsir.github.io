@@ -284,6 +284,10 @@ post_meta:
   categories: true
 
 # Post wordcount display settings
+post_wordcount:
+  item_text: true
+  wordcount: true
+  min2read: true
 # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
 symbols_count_time:
   separated_meta: true
