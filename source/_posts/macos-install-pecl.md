@@ -14,6 +14,7 @@ categories:
 > PECL(The PHP Extension Community Library)是PHP扩展的存储库,为PHP所有的扩展提供提供托管和下载服务. 通过PEAR(PHP Extension and Application Repository)的Package Manager的安装管理方式,可以对 PECL 扩展进行下载和安装
 ## 安装
 官方提供了PEAR在各个平台的安装方式,直接看官方文档的请进[传送门](http://pear.php.net/manual/en/installation.getting.php), macOS平台官方安装翻译如下
+<!--more-->
 1. 下载PEAR
 ```shell
 $ curl -O https://pear.php.net/go-pear.phar # 使用 curl 命令下载即可
