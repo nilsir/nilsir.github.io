@@ -117,3 +117,12 @@ export PATH=$HOME/.composer/vendor/bin:$PATH
 alias cat=ccat
 nah='git reset --hard;git clean -df'
 ```
+其他
+```shell
+$ cd $HOME
+$ touch .hushlogin
+# 关闭上次登录信息
+
+
+# You have to add DISABLE_AUTO_UPDATE="true" on your .zshrc before the source $ZSH/oh-my-zsh.sh line. By doing so, oh-my-zsh will just skip the update checking script.
+```
