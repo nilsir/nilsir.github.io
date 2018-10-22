@@ -8,7 +8,7 @@ tags:
 categories:
 - gitlab
 ---
-> 在ubuntu下安装gitlab, 亲测可用
+> 在ubuntu下安装gitlab, 亲测可...用
 <!--more-->
 ## 安装
 ```sh
