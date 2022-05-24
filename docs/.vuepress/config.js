@@ -18,6 +18,7 @@ module.exports = {
         text: 'Php',
         link: '/php/',
         children: [
+          '/php/php71-install-mcrypt-ext.md'
         ],
       },
       {
