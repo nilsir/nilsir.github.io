@@ -20,6 +20,13 @@ module.exports = {
         ],
       },
       {
+        text: 'Go',
+        link: '/go/',
+        children: [
+          '/go/mac-go-update-err.md'
+        ],
+      },
+      {
         text: 'Php',
         link: '/php/',
         children: [
