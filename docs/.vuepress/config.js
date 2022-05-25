@@ -6,6 +6,11 @@ module.exports = {
   description: 'nilsir\'s blog on github pages',
   theme: defaultTheme({
     darkMode: true,
+
+    contributors: false,
+
+    lastUpdatedText: '上次更新',
+
     sidebar: [
       // SidebarItem
       {
