@@ -42,6 +42,14 @@ module.exports = {
           '/nginx/nginx-without-process.md'
         ],
       },
+      {
+        text: 'MySQL',
+        link: '/mysql/',
+        // collapsible: true,
+        children: [
+          '/mysql/mysql-binlog-to-sql.md'
+        ],
+      },
     ],
   })
 }
