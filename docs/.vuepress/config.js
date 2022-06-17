@@ -31,7 +31,8 @@ module.exports = {
         link: '/php/',
         children: [
           '/php/build-php-env-on-mac.md',
-          '/php/php71-install-mcrypt-ext.md'
+          '/php/php71-install-mcrypt-ext.md',
+          '/php/php71-use-xdebug-test.md'
         ],
       },
       {
