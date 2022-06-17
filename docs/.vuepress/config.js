@@ -27,7 +27,7 @@ module.exports = {
         ],
       },
       {
-        text: 'Php',
+        text: 'PHP',
         link: '/php/',
         children: [
           '/php/build-php-env-on-mac.md',

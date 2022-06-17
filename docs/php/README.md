@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: Php 相关
-description: Php 相关
+title: PHP 相关
+description: PHP 相关
 ---
 
-# Php 相关
+# PHP 相关

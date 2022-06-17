@@ -1,10 +1,10 @@
 ---
 lang: zh-CN
-title: Php 7.1 安装 mcrypt 扩展
-description: Php 7.1 安装 mcrypt 扩展
+title: PHP 7.1 安装 mcrypt 扩展
+description: PHP 7.1 安装 mcrypt 扩展
 ---
 
-# Php 7.1 安装 mcrypt 扩展
+# PHP 7.1 安装 mcrypt 扩展
 
 ## 安装步骤
 1. 下载扩展源码并解压

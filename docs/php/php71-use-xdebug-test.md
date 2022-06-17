@@ -1,10 +1,10 @@
 ---
 lang: zh-CN
-title: Php 7.1 使用 xdebug 调试
-description: Php 7.1 使用 xdebug 调试
+title: PHP 7.1 使用 xdebug 调试
+description: PHP 7.1 使用 xdebug 调试
 ---
 
-# Php 7.1 使用 xdebug 调试
+# PHP 7.1 使用 xdebug 调试
 
 ## 安装扩展
 1. 下载扩展源码并解压
@@ -21,7 +21,7 @@ zend_extension="xdebug.so"
 xdebug.remote_enable=1
 xdebug.remote_port=19009
 xdebug.remote_host=localhost
-xdebug.idekey='PHPSTORM'
+xdebug.idekey="PHPSTORM"
 .
 .
 .
@@ -48,10 +48,10 @@ brew services restart php@7.1
 4. 配置 Debug 配置, 添加好了点击 Validate 验证下, 如果全部打钩那么配置正确, 如果有异常那么根据提示完成修改
 
 ## 进行调试
-1. 浏览器端
-安装 [xdebug-helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc)
-2. Postman端
-Header 里边增加 cookie, 值为: XDEBUG_SESSION=PHPSTORM
+1. 浏览器端<br>
+    安装 [xdebug-helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc)
+2. Postman端<br>
+    Header 里边增加 cookie, 值为: XDEBUG_SESSION=PHPSTORM
 
 ## 获取帮助
 
