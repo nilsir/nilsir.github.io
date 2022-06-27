@@ -42,7 +42,7 @@ description: 使用本地 composer 组件包
 
 ## 更新扩展
 
-最后在目录 /opt/project 中执行 composer update -o 即可。
+最后在目录 /opt/project 中执行 composer update -o 即可
 
 ## 获取帮助
 
