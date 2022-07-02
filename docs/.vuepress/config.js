@@ -52,6 +52,14 @@ module.exports = {
           '/mysql/mysql-binlog-to-sql.md'
         ],
       },
+      {
+        text: 'Mac',
+        link: '/mac/',
+        // collapsible: true,
+        children: [
+          '/mac/touch-gesture.md'
+        ],
+      },
     ],
   })
 }
