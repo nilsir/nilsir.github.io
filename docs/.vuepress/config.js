@@ -49,7 +49,8 @@ module.exports = {
         link: '/mysql/',
         // collapsible: true,
         children: [
-          '/mysql/mysql-binlog-to-sql.md'
+          '/mysql/mysql-binlog-to-sql.md',
+          '/mysql/query-order-by-in.md'
         ],
       },
       {
