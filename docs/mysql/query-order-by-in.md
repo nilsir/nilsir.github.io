@@ -48,8 +48,5 @@ explain select goods_id,goods_sn from goods where goods_sn in("DYHT00002003", "X
 ->orderByRaw(DB::raw(sprintf("FIND_IN_SET(id, '%s')", join(',', $ids))))
 ```
 
-
-
-
 ## explain 分析
 使用 explain 分析 与 得到的结果是一样的, 所以可以根据自己的习惯采用上边任意一种方式即可
