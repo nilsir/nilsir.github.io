@@ -58,7 +58,8 @@ module.exports = {
         link: '/mac/',
         // collapsible: true,
         children: [
-          '/mac/touch-gesture.md'
+          '/mac/touch-gesture.md',
+          '/mac/mouse-setting.md'
         ],
       },
     ],
