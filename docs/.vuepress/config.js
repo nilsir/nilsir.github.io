@@ -23,7 +23,8 @@ module.exports = {
         text: 'Go',
         link: '/go/',
         children: [
-          '/go/mac-go-update-err.md'
+          '/go/mac-go-update-err.md',
+          '/go/mac-go-grpc-install.md'
         ],
       },
       {
@@ -62,6 +63,14 @@ module.exports = {
           '/mac/mouse-setting.md'
         ],
       },
+      {
+        text: 'Git',
+        link: '/git/',
+        // collapsible: true,
+        children: [
+          '/git/my-git-config-backup.md'
+        ],
+      }
     ],
   })
 }
