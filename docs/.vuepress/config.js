@@ -34,7 +34,8 @@ module.exports = {
           '/php/build-php-env-on-mac.md',
           '/php/php71-install-mcrypt-ext.md',
           '/php/php71-use-xdebug-test.md',
-          '/php/use-local-composer-pkg.md'
+          '/php/use-local-composer-pkg.md',
+          '/php/install-swoole-ext.md'
         ],
       },
       {
