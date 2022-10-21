@@ -72,6 +72,15 @@ module.exports = {
           '/git/my-git-config-backup.md'
         ],
       }
+      ,
+      {
+        text: 'Ide',
+        link: '/ide/',
+        // collapsible: true,
+        children: [
+          '/ide/open-ide-from-browser.md'
+        ],
+      }
     ],
   })
 }
