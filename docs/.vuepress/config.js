@@ -89,7 +89,7 @@ module.exports = {
       {
         async: true,
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5114673839802250",
-        crossorigin: "crossorigin"
+        crossorigin: "anonymous"
       },
     ],
   ],
