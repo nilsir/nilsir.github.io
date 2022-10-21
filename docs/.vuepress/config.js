@@ -82,5 +82,15 @@ module.exports = {
         ],
       }
     ],
-  })
+  }),
+  head: [
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-5114673839802250",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      },
+    ],
+  ],
 }
