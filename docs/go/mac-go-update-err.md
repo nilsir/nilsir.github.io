@@ -17,3 +17,8 @@ description: Mac 上更新 Go 版本
 2. rm -rf $GOROOT
 
 3. 重新运行 `go version` 即可得到新的版本响应 `go version go1.18.2 darwin/amd64`
+
+## 获取帮助
+
+联系邮箱: nilsir@qq.com<br>
+联系微信: xiaoshilitong

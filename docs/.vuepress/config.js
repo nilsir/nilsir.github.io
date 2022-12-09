@@ -24,7 +24,8 @@ module.exports = {
         link: '/go/',
         children: [
           '/go/mac-go-update-err.md',
-          '/go/mac-go-grpc-install.md'
+          '/go/mac-go-grpc-install.md',
+          '/go/go-reflect-call-func.md'
         ],
       },
       {

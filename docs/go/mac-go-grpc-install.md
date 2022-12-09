@@ -35,3 +35,8 @@ $ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
 $ go get -u github.com/golang/protobuf/{proto,protoc-gen-go}
 $ go get -u google.golang.org/grpc
 ```
+
+## 获取帮助
+
+联系邮箱: nilsir@qq.com<br>
+联系微信: xiaoshilitong
