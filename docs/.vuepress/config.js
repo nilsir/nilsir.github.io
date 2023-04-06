@@ -44,7 +44,8 @@ module.exports = {
         link: '/nginx/',
         // collapsible: true,
         children: [
-          '/nginx/nginx-without-process.md'
+          '/nginx/nginx-without-process.md',
+          '/nginx/nginx-start-on-boot.md'
         ],
       },
       {
