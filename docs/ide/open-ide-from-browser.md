@@ -22,7 +22,7 @@ description: 通过浏览器打开各种Ide
 浏览器输入: emacs://open?url=file://%f&line=%l 然后回车
 
 ## 打开 sublime
-浏览器输入: 'subl://open?url=file://%f&line=%l 然后回车
+浏览器输入: subl://open?url=file://%f&line=%l 然后回车
 
 ## 打开 atom
 浏览器输入: atom://core/open/file?filename=%f&line=%l 然后回车
