@@ -71,7 +71,8 @@ module.exports = {
         link: '/git/',
         // collapsible: true,
         children: [
-          '/git/my-git-config-backup.md'
+          '/git/my-git-config-backup.md',
+          '/git/nah.md'
         ],
       }
       ,
