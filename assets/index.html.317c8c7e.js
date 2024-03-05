@@ -1,0 +1,1 @@
+const e={key:"v-74480d3e",path:"/ide/",title:"Ide \u76F8\u5173",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Ide \u76F8\u5173",description:"Ide \u76F8\u5173"},excerpt:"",headers:[],git:{updatedTime:1666339592e3},filePathRelative:"ide/README.md"};export{e as data};
