@@ -11,7 +11,7 @@ description: 安全的清理所有变更
 
 ## 在.zshrc中配置如下内容
 ```bash
-nah() {
+function nah {
     echo -n "Are you sure you want to clear all changes in git? (yes/no): "
     read response
     if ["$response"="yes" ]; then
@@ -23,6 +23,9 @@ nah() {
         echo "Operation aborted."
     fi
 }
+
+# YOU (MIGHT) NEED THIS IF YOU AREN'T USING ZSH
+alias nah = 'nah';
 ```
 
 ## 获取帮助
