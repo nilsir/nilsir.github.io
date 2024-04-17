@@ -91,6 +91,27 @@ module.exports = {
         children: [
           '/css/web-gray-css.md'
         ],
+      },
+      {
+        text: 'Spree Commerce',
+        link: '/spree/',
+        // collapsible: true,
+        children: [
+          {
+            text: '介绍',
+            link: '/spree/doc.md'
+          },
+          {
+            text: '入门',
+            link: '/spree/get-started.md',
+            children: [
+              {
+                text: "安装",
+                link: '/spree/get-started/install.md',
+              }
+            ]
+          }
+        ],
       }
     ],
   }),
