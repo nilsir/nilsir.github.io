@@ -74,6 +74,14 @@ module.exports = {
           '/git/my-git-config-backup.md',
           '/git/nah.md'
         ],
+      },
+      {
+        text: 'Vim',
+        link: '/vim/',
+        // collapsible: true,
+        children: [
+          '/vim/my-vim-config-backup.md'
+        ],
       }
       ,
       {
