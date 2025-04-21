@@ -21,4 +21,4 @@ description: Mac 上更新 Go 版本
 ## 获取帮助
 
 联系邮箱: nilsir@qq.com<br>
-联系微信: xiaoshilitong
+联系微信: Alante28Jul
