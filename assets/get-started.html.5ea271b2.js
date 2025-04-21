@@ -1,0 +1,1 @@
+const e={key:"v-5e8d9a02",path:"/spree/get-started.html",title:"\u5165\u95E8",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"\u5165\u95E8",description:"\u5165\u95E8"},excerpt:"",headers:[{level:2,title:"\u83B7\u53D6\u5E2E\u52A9",slug:"\u83B7\u53D6\u5E2E\u52A9",children:[]}],git:{updatedTime:174521761e4},filePathRelative:"spree/get-started.md"};export{e as data};

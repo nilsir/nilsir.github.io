@@ -1,0 +1,1 @@
+const e={key:"v-d78bf41a",path:"/spree/",title:"Spree Commerce \u5F00\u53D1\u8005\u6587\u6863",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Spree Commerce \u5F00\u53D1\u8005\u6587\u6863",description:"Spree Commerce \u5F00\u53D1\u8005\u6587\u6863"},excerpt:"",headers:[],git:{updatedTime:1713347588e3},filePathRelative:"spree/README.md"};export{e as data};
