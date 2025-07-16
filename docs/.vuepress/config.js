@@ -36,7 +36,8 @@ module.exports = {
           '/php/php71-install-mcrypt-ext.md',
           '/php/php71-use-xdebug-test.md',
           '/php/use-local-composer-pkg.md',
-          '/php/install-swoole-ext.md'
+          '/php/install-swoole-ext.md',
+          '/php/php71-xhprof-ext.md'
         ],
       },
       {
@@ -98,27 +99,6 @@ module.exports = {
         // collapsible: true,
         children: [
           '/css/web-gray-css.md'
-        ],
-      },
-      {
-        text: 'Spree Commerce',
-        link: '/spree/',
-        // collapsible: true,
-        children: [
-          {
-            text: '介绍',
-            link: '/spree/doc.md'
-          },
-          {
-            text: '入门',
-            link: '/spree/get-started.md',
-            children: [
-              {
-                text: "安装",
-                link: '/spree/get-started/install.md',
-              }
-            ]
-          }
         ],
       }
     ],
