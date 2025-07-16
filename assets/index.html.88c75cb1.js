@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as s}from"./app.afab71f0.js";const c={},_={id:"go-\u76F8\u5173",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#go-\u76F8\u5173","aria-hidden":"true"},"#",-1),n=s(" Go \u76F8\u5173"),d=[r,n];function i(h,f){return t(),o("h1",_,d)}var x=e(c,[["render",i],["__file","index.html.vue"]]);export{x as default};

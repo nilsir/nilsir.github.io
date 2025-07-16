@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as c,b as o}from"./app.afab71f0.js";const s={},_={id:"mac-\u76F8\u5173",tabindex:"-1"},r=c("a",{class:"header-anchor",href:"#mac-\u76F8\u5173","aria-hidden":"true"},"#",-1),n=o(" Mac \u76F8\u5173"),d=[r,n];function i(h,f){return a(),t("h1",_,d)}var m=e(s,[["render",i],["__file","index.html.vue"]]);export{m as default};

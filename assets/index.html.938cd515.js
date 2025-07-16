@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as s}from"./app.afab71f0.js";const c={},_={id:"php-\u76F8\u5173",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#php-\u76F8\u5173","aria-hidden":"true"},"#",-1),n=s(" PHP \u76F8\u5173"),d=[r,n];function h(i,f){return t(),a("h1",_,d)}var p=e(c,[["render",h],["__file","index.html.vue"]]);export{p as default};

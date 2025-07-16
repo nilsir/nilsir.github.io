@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as s}from"./app.afab71f0.js";const c={},_={id:"ide-\u76F8\u5173",tabindex:"-1"},d=o("a",{class:"header-anchor",href:"#ide-\u76F8\u5173","aria-hidden":"true"},"#",-1),r=s(" Ide \u76F8\u5173"),n=[d,r];function i(h,f){return t(),a("h1",_,n)}var x=e(c,[["render",i],["__file","index.html.vue"]]);export{x as default};

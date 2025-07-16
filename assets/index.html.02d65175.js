@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as s}from"./app.afab71f0.js";const c={},_={id:"vim-\u76F8\u5173",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#vim-\u76F8\u5173","aria-hidden":"true"},"#",-1),n=s(" Vim \u76F8\u5173"),i=[r,n];function d(h,m){return t(),a("h1",_,i)}var l=e(c,[["render",d],["__file","index.html.vue"]]);export{l as default};
